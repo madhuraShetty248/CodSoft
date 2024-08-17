@@ -13,7 +13,8 @@ The landing page features an "About" section where you can include an image and 
 
 Screenshot:
 
-    ![l2](https://github.com/user-attachments/assets/342fcc8f-5d50-456c-bbe6-c0b88e9e0f10)
+    ![project](https://github.com/user-attachments/assets/c88ba4a0-94c5-4774-bd21-f6f2fbc37d02)
+
 
 
 The landing page includes a "Projects" section where you can showcase your work with descriptions, images, or links to live demos. 
