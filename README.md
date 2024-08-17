@@ -6,13 +6,13 @@ Task 1 :This project is a simple, responsive landing page built using HTML for s
 
 Task 1 Screenshot:
 
-  "C:\Users\madhu\OneDrive\Desktop\Pictured\l1.png"
+  "C:\Users\madhu\OneDrive\Desktop\Pictured\task1\l1.png"
 
 The landing page features an "About" section where you can include an image and write a brief bio that highlights your skills and experience. 
 
 Screenshot:
 
-   "C:\Users\madhu\OneDrive\Desktop\Pictured\l2.png"
+   "C:\Users\madhu\OneDrive\Desktop\Pictured\task1\l2.png"
 
 The landing page includes a "Projects" section where you can showcase your work with descriptions, images, or links to live demos. 
 Additionally, there's a "Contact" section that allows users to get in touch with you through a form.
@@ -24,20 +24,20 @@ Header Section: Display your name or logo prominently at the top, with an option
 
 Screenshot:
 
- "C:\Users\madhu\OneDrive\Desktop\Pictured\p1.png"
+ "C:\Users\madhu\OneDrive\Desktop\Pictured\task2\p1.png"
 
 About Section: Include an image along with a brief bio that highlights your skills and experience. 
 Resume Section: Offer a link for users to download your resume in PDF format.
 
 Screenshot:
 
-  "C:\Users\madhu\OneDrive\Desktop\Pictured\p2.png"
+  "C:\Users\madhu\OneDrive\Desktop\Pictured\task2\p2.png"
 
 Project Section: Display samples of your work or projects, featuring titles, descriptions, and images for each project.
 
 Screenshot:
 
-  "C:\Users\madhu\OneDrive\Desktop\Pictured\p3.png"
+   "C:\Users\madhu\OneDrive\Desktop\Pictured\task2\p3.png"
 
 Skills Section: Highlight key skills or areas of expertise.
 Contact Section: Provide your contact information, including email address and phone number. 
@@ -45,7 +45,8 @@ Footer: Add a copyright notice along with any additional links or relevant infor
 
 Screenshot:
 
-   "C:\Users\madhu\OneDrive\Desktop\Pictured\p4.png"
+   
+ "C:\Users\madhu\OneDrive\Desktop\Pictured\task2\p4.png"
 
 
 
@@ -53,7 +54,7 @@ Task 3: To build a basic calculator with HTML, CSS, and JavaScript, I created an
 
 Task 3 Screenshot:
 
-  "C:\Users\madhu\OneDrive\Desktop\Pictured\c1.png"
+   "C:\Users\madhu\OneDrive\Desktop\Pictured\task3\c1.png"
 
 
 
